@@ -1,0 +1,6 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+aiofiles>=23.2.1
+httpx>=0.27.0
+slowapi>=0.1.9
+scapy>=2.5.0   # optional: only needed for .pcapng support
